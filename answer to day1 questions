@@ -101,7 +101,7 @@ Git
 Subversion (SVN)
 Mercurial
 
-question6
+question 7
 1. Scope Creep
 Agile Methodology: Break projects into sprints with prioritized backlogs (e.g., using Jira).
 Clear Contracts: Define scope and approval processes for changes upfront.
@@ -139,7 +139,7 @@ User Stories: Break down requirements into actionable tasks (e.g., "As a user, I
 Prototyping: Build wireframes (e.g., Figma) or MVPs to validate ideas.
 Stakeholder Workshops: Clarify goals through collaborative sessions.
 
-question 7
+question 8
 Unit Testing
 Definition: Testing individual components (e.g., functions, classes) in isolation to verify they work as expected.
 Importance:
@@ -168,4 +168,14 @@ Confirms the software solves real-world problems.
 Ensures stakeholder satisfaction before launch.
 Mitigates the risk of post-deployment failures.
 
-question8
+question 9
+Prompt Engineering is the practice of designing and refining inputs (prompts) to guide AI models—such as large language models (LLMs) like GPT-4, Claude, or Gemini—to produce desired, accurate, and contextually appropriate outputs. It involves crafting instructions, examples, and contextual cues to "steer" the model’s responses effectively.
+
+question 10
+Specificity: The first prompt specifies key details about the subject—"a young woman with long brown hair, wearing a red jacket and blue jeans"—as well as the setting—"standing in a park on a sunny day with trees and grass in the background." This gives me a precise idea of the character’s appearance, clothing, and environment, reducing ambiguity and ensuring the output aligns closely with the user’s vision.
+
+Context: The second prompt simply mentions "a person," which is vague and lacks context. Without details about appearance, gender, attire, or location, I have to make assumptions, which might not match what the user had in mind. In this case, I defaulted to reusing elements from the first prompt (e.g., long brown hair, red jacket, park setting), but that was an educated guess rather than a clear instruction.
+
+Detail Level: The first prompt paints a full picture—age ("young"), hair ("long brown"), outfit ("red jacket and blue jeans"), and a vivid scene ("park on a sunny day with trees and grass"). This level of detail helps me create a cohesive and intentional image. The second prompt, by contrast, offers no descriptive anchor, making it harder to produce something meaningful or tailored.
+
+
