@@ -140,4 +140,32 @@ Prototyping: Build wireframes (e.g., Figma) or MVPs to validate ideas.
 Stakeholder Workshops: Clarify goals through collaborative sessions.
 
 question 7
+Unit Testing
+Definition: Testing individual components (e.g., functions, classes) in isolation to verify they work as expected.
+Importance:
+Catches bugs at the earliest stage of development.
+Simplifies debugging by isolating failures to specific code units.
+Facilitates code refactoring with confidence.
 
+Integration Testing
+Definition: Testing interactions between integrated modules or services to ensure they work together.
+Importance:
+Uncovers interface mismatches (e.g., data format errors).
+Validates communication between subsystems (e.g., APIs, databases).
+Ensures combined components meet functional requirements.
+
+System Testing
+Definition: Testing the entire system end-to-end to validate compliance with requirements.
+Importance:
+Verifies the system works as a unified whole.
+Checks non-functional aspects: performance, security, scalability.
+Ensures readiness for user acceptance testing (UAT).
+
+Acceptance Testing
+Definition: Validating the software against user/business requirements to ensure it’s ready for deployment.
+Importance:
+Confirms the software solves real-world problems.
+Ensures stakeholder satisfaction before launch.
+Mitigates the risk of post-deployment failures.
+
+question8
