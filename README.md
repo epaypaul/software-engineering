@@ -8,7 +8,6 @@ powertolearn
 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-9. Whether the software meets the needs of the end-user and is ready for deployment.
-10.Define prompt engineering and discuss its importance in interacting with AI models.
-11.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+9.Define prompt engineering and discuss its importance in interacting with AI models.
+10.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
